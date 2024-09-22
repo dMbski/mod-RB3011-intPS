@@ -29,15 +29,14 @@
 
 5. Measuring the AC wires and soldering them to the power socket.
 6. Installation of the AC socket. Securing the wires in the socket with heat shrink tube.
+> [!CAUTION]
+> For grounding connections, a yellow-green wire should be used. Here, a blue wire was used.
 ![](images/IMG_20240920_210214125.jpg)
 
 7. Tightening the screws securing the power socket.
 ![](images/IMG_20240920_210241794.jpg)
 
 8. Connecting the AC wires to the power supply.
-> [!CAUTION]
-> For grounding connections, a yellow-green wire should be used. Here, a blue wire was used.
-
 9. Measuring and soldering the DC wire from the power supply to the designated spot on the router board.
 ![](images/IMG_20240920_210155019.jpg)
 
