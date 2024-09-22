@@ -35,7 +35,8 @@
 ![](images/IMG_20240920_210241794.jpg)
 
 8. Connecting the AC wires to the power supply.
-> [!CAUTION] For grounding connections, a yellow-green wire should be used. Here, a blue wire was used.
+> [!CAUTION]
+> For grounding connections, a yellow-green wire should be used. Here, a blue wire was used.
 
 9. Measuring and soldering the DC wire from the power supply to the designated spot on the router board.
 ![](images/IMG_20240920_210155019.jpg)
