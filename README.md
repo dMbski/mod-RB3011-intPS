@@ -21,6 +21,8 @@
 2. Knocking out the cover for the power plug opening.
 3. Thorough cleaning of metal shavings from the casin.
 4. Installation of the power supply in the casing.
+![](images/IMG_20240920_210233800.jpg)
+
 5. Measuring the AC wires and soldering them to the power socket.
 6. Securing the wires in the socket with heat shrink tube.
 7. Connecting the AC wires to the power supply.
