@@ -17,6 +17,8 @@
 - 2x Mounting screws with M3 self locking nuts, length arount 6mm flat.
 
 ### Stages of work and installation
+> The wires to be mounted and screwed to the power supply have been tinned with solder.
+
 1. Measuring and drilling 2 mounting holes for the power supply.
 2. Knocking out the cover for the power plug opening.
 3. Thorough cleaning of metal shavings from the casin.
