@@ -17,7 +17,7 @@
 - 2x Mounting screws with M3 self locking nuts, length arount 6mm flat.
 
 ### Stages of work and installation
-> [!INFO]
+> [!NOTE]  
 > The wires to be mounted and screwed to the power supply have been tinned with solder.
 > The images are for reference only and may not include specific stages of work
 
