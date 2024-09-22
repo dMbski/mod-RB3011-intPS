@@ -24,12 +24,20 @@
 ![](images/IMG_20240920_210233800.jpg)
 
 5. Measuring the AC wires and soldering them to the power socket.
-6. Securing the wires in the socket with heat shrink tube.
-7. Connecting the AC wires to the power supply.
-8. Measuring and soldering the DC wire from the power supply to the designated spot on the router board.
-blob:https://github.com/75500237-f9e1-4077-97a2-f22a3b993a5c
-9. Connecting the DC wires to the power supply.
-10. Securing the AC and DC wires to prevent abrasion
-11. Verification of completed work.
-12. Close the casing, cross your fingers, and power on the device.
+6. Installation of the AC socket. Securing the wires in the socket with heat shrink tube.
+![](images/IMG_20240920_210214125.jpg)
+
+7. Tightening the screws securing the power socket.
+![](images/IMG_20240920_210241794.jpg)
+
+8. Connecting the AC wires to the power supply.
+9. Measuring and soldering the DC wire from the power supply to the designated spot on the router board.
+![](images/IMG_20240920_210155019.jpg)
+
+10. Connecting the DC wires to the power supply.
+11. Securing the AC and DC wires to prevent abrasion.
+![](images/IMG_20240920_210323910.jpg)
+
+12. Verification of completed work.
+13. Close the casing, cross your fingers, and power on the device.
 
