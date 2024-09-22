@@ -13,7 +13,7 @@
 
 - 2x Mounting screws with M3 nuts, length around 6mm (M3x6mm) conical or flat.
 - 24V Single Output Switching Power Supply: Mean Well LRS-35-24 24V 1.5A 36W
-PowerSupply Datasheet
+[PowerSupply Datasheet](/images/LRS-35-SPEC.PDF)
 - 2x Mounting screws with M3 self locking nuts, length arount 6mm flat.
 
 ### Stages of work and installation
@@ -25,6 +25,7 @@ PowerSupply Datasheet
 6. Securing the wires in the socket with heat shrink tube.
 7. Connecting the AC wires to the power supply.
 8. Measuring and soldering the DC wire from the power supply to the designated spot on the router board.
+blob:https://github.com/75500237-f9e1-4077-97a2-f22a3b993a5c
 9. Connecting the DC wires to the power supply.
 10. Securing the AC and DC wires to prevent abrasion
 11. Verification of completed work.
